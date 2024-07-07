@@ -1,0 +1,34 @@
+id;kode;symptoms
+1;G001;koneksi internet terasa lambat
+2;G002;buffering saat streaming video
+3;G003;kesulitan mengakses situs atau layanan tertentu
+4;G004;kesalahan saat mengirim atau menerima data seperti email atau file
+5;G005;koneksi sering terputus-putus
+6;G006;koneksi Gagal atau Gagal Autentikasi
+7;G007;pengalihan otomatis ke jaringan seluler
+8;G008;pesan Kesalahan Selama Percobaan Koneksi
+9;G009;kehilangan Koneksi secara berkala
+10;G010;Tidak Ada Jaringan Tersedia
+11;G011;Pengaturan Jaringan Tidak Muncul
+12;G012;Muncul kesalahan “Tidak menemukan jaringan tersedia
+13;G013;Koneksi Terputus secara Otomatis
+14;G014;Tidak Ada Koneksi Ethernet
+15;G015;Tidak bisa tehubung ke Jaringan Internet
+16;G016;Gagal Mengakses Sumber Daya Jaringan Lokal
+17;G017;Perangkat Tidak Terdeteksi dalam Jaringan Lokal
+18;G018;Muncul pemberitahuan maintenance dari penyedia layanan internet
+19;G019;Pengaturan jaringan berubah secara otomatis
+20;G020;Tidak Bisa Mengakses Pengaturan Router
+21;G021;Muncul kesalahan “Situs tidak dapat diakses
+22;G022;Pengalihan ke halaman error
+23;G023;Muncul pesan kesalahan “tidak ada Alamat IP tidak tersedia
+24;G024;Kegagalan dalam Mengalokasikan Alamat IP
+25;G025;Perangkat Terhubung ke Router Terputus dari Jaringan
+26;G026;Tidak Ada Lampu Indikator yang menyala
+27;G027;Lampu LOS (Loss of Signal) menyala berwarna merah
+28;G028;Lampu PON (Passive Optical Network) tidak menyala
+29;G029;Lampu Internet tidak menyala
+30;G030;Kesulitan terhubung ke jaringan WiFi
+31;G031;Peningkatan latensi atau ping
+32;G032;Pemulihan Koneksi Otomatis
+33;G033;Lampu Indikator pada Modem Berkedip

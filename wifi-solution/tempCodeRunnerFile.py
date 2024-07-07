@@ -1,0 +1,1 @@
+        # Menangani akhir dari daftar gejala
